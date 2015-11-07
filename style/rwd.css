@@ -1,0 +1,1329 @@
+    /* Smartphones (portrait) ----------- */
+    @media only screen and (max-width : 384px) {
+
+/* ################# title and conferense ##################### */
+
+        .mainmenu {
+            height: 240px;
+        }
+
+        .mainmenu:hover {
+            background-color:  transparent;
+        }
+
+        .logo {
+            padding-top: 30px;
+            padding-bottom: 10px;
+            margin-left: auto;
+            margin-right: auto;
+            background-position: center center;
+            position: static;
+            width: 120px;
+            height: 100px;
+        }
+
+        .menulist {
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+            position: static;
+            display: block;
+            text-align: center;
+            font-size: 19px;
+        }
+
+        .mainmenu li:last-child {
+            border-bottom: none;
+        }
+
+        .mainmenu:hover a {
+            font-size: 19px;
+        }
+
+        .date {
+            padding-top: 20px;
+            width: 100%;
+            height: 50px;
+            font-size: 16px;
+        }
+
+        .conftitle {
+            margin-top: 20px;
+            height: 100%;
+        }
+
+        .conftitle h1 {
+            padding-left: 10px;
+            padding-right: 10px;
+            width: 100%;
+            height: 90px;
+            font-size: 20px;
+        }
+
+        .confundertitle {
+            margin-top: 10px;
+            width: 100%;
+            height: 70px;
+            font-size: 14px;
+        }
+
+        .scroll {
+            display: none;
+        }
+
+        .conferencetitle {
+            background-size: 200px auto;
+            margin-top: 20px;
+            height: 100px;
+        }
+
+        .aboutconf {
+            margin-right: auto;
+            margin-left: auto;
+            width: 100%;
+            height: 100%;
+            padding-bottom: 20px;
+        }
+
+        .aboutconfleft {
+            padding-left: 10px;
+            padding-right: 10px;
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+            width: 100%;
+            height: 100%;
+        }
+
+        .aboutconfleft h5 {
+            font-size: 18px;
+            padding-bottom: 15px;
+        }
+
+        .aboutconfleft p {
+            font-size: 14px;
+        }
+
+        .aboutconfright {
+            padding-left: 10px;
+            padding-right: 10px;
+            margin-top: 20px;
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+            width: 100%;
+            height: 100%;
+        }
+
+        .aboutconfright h5 {
+            font-size: 18px;
+            padding-bottom: 15px;
+        }
+
+        .aboutconfright p {
+            font-size: 14px;
+        }
+
+/* ######################## agenda ############################ */
+
+        #agenda {
+            margin-top: 0;
+            padding-bottom: 40px;
+        }
+
+        .agendatitle {
+            background-size: 170px auto;
+            height: 100px;
+        }
+
+        .plan {
+            margin-left: auto;
+            margin-right: auto;
+            width: 100%;
+            height: 100%;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+
+        .linear {
+            margin-top: 10px;
+            margin-left: auto;
+            margin-right: auto;
+            background-size: 70px 350px;
+            height: 350px;
+            width: 70px;
+            margin-right: 15px;
+        }
+
+
+        .ontime {
+            width: 100%;
+            padding-top: 0px;
+            height: 100%;
+        }
+
+        .ontime2 {
+            width: 100%;
+            padding-top: 15px;
+            height: 100%;
+        }
+
+        .ontime3 {
+            width: 100%;
+            padding-top: 9px;
+            height: 100%;
+        }
+
+        .ontime4 {
+            width: 100%;
+            padding-top: 7px;
+            height: 100%;
+        }
+
+        .ontime5 {
+            width: 100%;
+            padding-top: 10px;
+            height: 100%;
+        }
+
+        .ontime h5 {
+            font-weight: 100;
+            font-size: 17px;
+            margin: 0;
+            padding-bottom: 5px;
+        }
+
+        .ontime p {
+            font-size: 12px;
+            padding-top: 10px;
+            margin: 0;
+            overflow: scroll;
+            height: 100px;
+            max-width: 200px;
+        }
+
+        .timetitle {
+            font-size: 16px;
+        }
+
+        .programbutton {
+            padding-top: 14px;
+        }
+
+/* ######################## speakers ########################## */
+
+        #speakers {
+            margin-top: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        .speakerstitle {
+            background-size: 200px auto;
+            height: 100px;
+        }
+
+        #speakers1 {
+            height: 100px;
+        }
+
+        #speakers2 {
+            height: 100px;
+        }
+
+        #speakers3 {
+            height: 100px;
+        }
+
+        #speakers4 {
+            height: 100px;
+        }
+
+        #speakers5 {
+            height: 100px;
+        }
+
+        .speakersize {
+            width: 300px;
+            height: 100%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .speakerphoto1 {
+            width: 150px;
+        }
+
+        .speakerphoto2 {
+            width: 150px;
+        }
+
+        .speakerphoto3 {
+            width: 150px;
+        }
+
+        .speakerphoto4 {
+            width: 150px;
+        }
+
+        #speakers4show {
+            width: 100%;
+            height: 200px;
+        }
+
+        .speakersize-show {
+            width: 300px;
+            height: 100%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .speakerinfo-left-show {
+            padding-top: 3px;
+            margin-right: 10px;
+            width: 140px;
+            height: 100px;
+            float: left;
+        }
+
+        .speakerinfo-left-show p {
+            font-size: 13px;
+        }
+
+        .speakerinfo-left-show h5 {
+            font-size: 18px;
+        }
+
+        .speakerphoto4show {
+            width: 150px;
+            height: 200px;
+        }
+
+        .speakerbutton-left-4-up {
+            background-size: 15px 15px;
+            width: 140px;
+            height: 17px;
+        }
+
+        .speakerbutton-left-4 {
+            background-size: 15px 15px;
+            clear: both;
+            width: 140px;
+            height: 17px;
+        }
+
+        .speakerphoto5 {
+            width: 150px;
+        }
+
+
+        .speakerinfo-right {
+            padding-top: 3px;
+            margin-left: 10px;
+            width: 140px;
+            height: 100px;
+        }
+
+        .speakerinfo-right p {
+            font-size: 13px;
+        }
+
+        .speakerinfo-right h5 {
+            font-size: 16px;
+        }
+
+        .speakerbutton-right {
+            background-size: 15px 15px;
+            width: 100px;
+            height: 17px;
+        }
+
+        .speakerinfo-left {
+            padding-top: 3px;
+            margin-right: 10px;
+            width: 140px;
+            height: 100px;
+        }
+
+        .speakerinfo-left p {
+            font-size: 13px;
+        }
+
+        .speakerinfo-left h5 {
+            font-size: 16px;
+        }
+
+        .speakerbutton-left {
+            background-size: 15px 15px;
+            width: 140px;
+            height: 17px;
+        }
+
+/* ######################## location ########################## */
+        
+        #location {
+            width: 100%;
+            height: 100%;
+            padding-bottom: 20px;
+        }
+
+        .locationtitle {
+            background-size: 200px auto;
+            height: 100px;
+        }
+
+        .aboutloc {
+            margin-right: auto;
+            margin-left: auto;
+            width: 100%;
+            height: 100%;
+        }
+
+        .aboutlocleft {
+            margin-left: auto;
+            margin-right: auto;
+            padding-right: 10px;
+            padding-left: 10px;
+            display: block;
+            width: 100%;
+            height: 100%;
+        }
+
+        .aboutlocleft h5 {
+            font-size: 18px;
+            margin-bottom: 15px;
+        }
+
+        .aboutlocleft p {
+            font-size: 14px;
+        }
+
+        .aboutlocright {
+            margin-top: 15px;
+            margin-left: auto;
+            margin-right: auto;
+            padding-right: 10px;
+            padding-left: 10px;
+            display: block;
+            width: 100%;
+            height: 100%;
+        }
+
+        .aboutlocright h5 {
+            font-size: 18px;
+            margin-bottom: 15px;
+        }
+
+        .aboutlocright p {
+            font-size: 14px;
+        }
+
+        #map {
+            width: 100%;
+            height: 150px;
+        }
+        
+/* ######################## contact ########################### */
+        #contact {
+            height: 100%;
+            padding-bottom: 70px;
+        }
+
+        .contacttitle {
+            background-size: 200px auto;
+            height: 100px;
+            margin-bottom: 10px;
+        }
+
+        #contact p {
+            font-size: 16px;
+            display: block;
+            text-align: center;
+            margin-bottom: 15px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .contactform {
+            width: 100%;
+            height: 100%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .contactform p {
+            font-size: 14px;
+            color: #ffffff;
+            font-weight: 100;
+        }
+
+        .contactform form {
+            padding-top: 20px;
+        }
+
+        .agreetext {
+            margin-top: -3px;
+            font-size: 10px;
+            display: block;
+        }
+
+        .contactform textarea {
+            width: 100%;
+            margin-top: 25px;
+            margin-bottom: 20px;
+            margin-left: auto;
+            margin-right: auto;
+            width: 230px;
+        }
+
+        .formsize {
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+            width: 100%;
+        }
+
+        .formsize-textarea {
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+            width: 100%;
+            margin-left: 10px;
+            margin-right: 10px;
+        }
+
+        .contactform input[type="text"] {
+            width: 200px;
+        }
+
+    }
+
+    /* Smartphones (landscape) ----------- */
+    @media only screen and (min-width : 385px) and (max-device-width : 767px) {
+
+/* ################# title and conferense ##################### */
+
+        .mainmenu {
+            height: 220px;
+        }
+
+        .mainmenu:hover {
+            background-color:  transparent;
+        }
+
+        .logo {
+            padding-top: 30px;
+            padding-bottom: 10px;
+            width: 120px;
+            height: 100px;
+            display: block;
+            float: left;
+            margin-left: auto;
+            left: 30px;
+            top: 40px;
+        }
+
+        .menulist {
+            margin-right: auto;
+            display: block;
+            text-align: center;
+            font-size: 19px;
+            float: left;
+            top: 20px;
+            right: 30px;
+        }
+
+        .mainmenu li:last-child {
+            border-bottom: none;
+        }
+
+        .mainmenu:hover a {
+            font-size: 19px;
+        }
+
+        .date {
+            clear: both;
+            padding-top: 20px;
+            width: 100%;
+            height: 50px;
+            font-size: 16px;
+        }
+
+        .conftitle {
+            margin-top: 20px;
+            height: 100%;
+        }
+
+        .conftitle h1 {
+            padding-left: 10px;
+            padding-right: 10px;
+            width: 100%;
+            height: 110px;
+            font-size: 20px;
+        }
+
+        .confundertitle {
+            margin-top: 10px;
+            width: 100%;
+            height: 70px;
+            font-size: 14px;
+        }
+
+        .scroll {
+            display: none;
+        }
+
+        .conferencetitle {
+            background-size: 200px auto;
+            margin-top: 20px;
+            height: 100px;
+        }
+
+        .aboutconf {
+            margin-right: auto;
+            margin-left: auto;
+            width: 100%;
+            height: 100%;
+            padding-bottom: 20px;
+        }
+
+        .aboutconfleft {
+            padding-left: 10px;
+            padding-right: 10px;
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+            width: 100%;
+            height: 100%;
+        }
+
+        .aboutconfleft h5 {
+            font-size: 18px;
+            padding-bottom: 15px;
+        }
+
+        .aboutconfleft p {
+            font-size: 14px;
+        }
+
+        .aboutconfright {
+            padding-left: 10px;
+            padding-right: 10px;
+            margin-top: 20px;
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+            width: 100%;
+            height: 100%;
+        }
+
+        .aboutconfright h5 {
+            font-size: 18px;
+            padding-bottom: 15px;
+        }
+
+        .aboutconfright p {
+            font-size: 14px;
+        }
+
+/* ######################## agenda ############################ */
+
+        #agenda {
+            margin-top: 0;
+            padding-bottom: 30px;
+        }
+
+        .agendatitle {
+            background-size: 170px auto;
+            height: 100px;
+        }
+
+        .plan {
+            margin-left: auto;
+            margin-right: auto;
+            width: 100%;
+            height: 100%;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+
+        .linear {
+            margin-top: 10px;
+            margin-left: auto;
+            margin-right: auto;
+            background-size: 70px 350px;
+            height: 350px;
+            width: 70px;
+            margin-right: 15px;
+        }
+
+
+        .ontime {
+            width: 100%;
+            padding-top: 0px;
+            height: 100%;
+        }
+
+        .ontime2 {
+            width: 100%;
+            padding-top: 6px;
+            height: 100%;
+        }
+
+        .ontime3 {
+            width: 100%;
+            padding-top: 20px;
+            height: 100%;
+        }
+
+        .ontime4 {
+            width: 100%;
+            padding-top: 26px;
+            height: 100%;
+        }
+
+        .ontime5 {
+            width: 100%;
+            padding-top: 27px;
+            height: 100%;
+        }
+
+        .ontime h5 {
+            font-weight: 100;
+            font-size: 17px;
+            margin: 0;
+            padding-bottom: 5px;
+            padding-top: 8px;
+        }
+
+        .ontime p {
+            font-size: 12px;
+            padding-top: 0;
+            margin: 0;
+            height: 120px;
+        }
+
+        .timetitle {
+            font-size: 16px;
+        }
+
+        .programbutton {
+            padding-top: 14px;
+        }
+
+/* ######################## speakers ########################## */
+
+        #speakers {
+            margin-top: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        .speakerstitle {
+            background-size: 200px auto;
+            height: 100px;
+        }
+
+        #speakers1 {
+            height: 100px;
+        }
+
+        #speakers2 {
+            height: 100px;
+        }
+
+        #speakers3 {
+            height: 100px;
+        }
+
+        #speakers4 {
+            height: 100px;
+        }
+
+        #speakers5 {
+            height: 100px;
+        }
+
+        .speakersize {
+            width: 300px;
+            height: 100%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .speakerphoto1 {
+            width: 150px;
+        }
+
+        .speakerphoto2 {
+            width: 150px;
+        }
+
+        .speakerphoto3 {
+            width: 150px;
+        }
+
+        .speakerphoto4 {
+            width: 150px;
+        }
+
+        #speakers4show {
+            width: 100%;
+            height: 200px;
+        }
+
+        .speakersize-show {
+            width: 300px;
+            height: 100%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .speakerinfo-left-show {
+            padding-top: 3px;
+            margin-right: 10px;
+            margin-left: auto;
+            width: 140px;
+            height: 100px;
+            float: left;
+        }
+
+        .speakerinfo-left-show p {
+            font-size: 13px;
+        }
+
+        .speakerinfo-left-show h5 {
+            font-size: 18px;
+        }
+
+        .speakerphoto4show {
+            width: 150px;
+            height: 200px;
+        }
+
+        .speakerbutton-left-4-up {
+            background-size: 15px 15px;
+            width: 140px;
+            height: 17px;
+        }
+
+        .speakerbutton-left-4 {
+            background-size: 15px 15px;
+            clear: both;
+            width: 140px;
+            height: 17px;
+        }
+
+        .speakerphoto5 {
+            width: 150px;
+        }
+
+
+        .speakerinfo-right {
+            padding-top: 3px;
+            margin-left: 10px;
+            width: 140px;
+            height: 100px;
+        }
+
+        .speakerinfo-right p {
+            font-size: 13px;
+        }
+
+        .speakerinfo-right h5 {
+            font-size: 16px;
+        }
+
+        .speakerbutton-right {
+            background-size: 15px 15px;
+            width: 100px;
+            height: 17px;
+        }
+
+        .speakerinfo-left {
+            padding-top: 3px;
+            margin-right: 10px;
+            width: 140px;
+            height: 100px;
+        }
+
+        .speakerinfo-left p {
+            font-size: 13px;
+        }
+
+        .speakerinfo-left h5 {
+            font-size: 16px;
+        }
+
+        .speakerbutton-left {
+            background-size: 15px 15px;
+            width: 140px;
+            height: 17px;
+        }
+
+/* ######################## location ########################## */
+        
+        #location {
+            width: 100%;
+            height: 100%;
+            padding-bottom: 20px;
+        }
+
+        .locationtitle {
+            background-size: 200px auto;
+            height: 100px;
+        }
+
+        .aboutloc {
+            margin-right: auto;
+            margin-left: auto;
+            width: 100%;
+            height: 100%;
+        }
+
+        .aboutlocleft {
+            margin-left: auto;
+            margin-right: auto;
+            padding-right: 10px;
+            padding-left: 10px;
+            display: block;
+            width: 100%;
+            height: 100%;
+        }
+
+        .aboutlocleft h5 {
+            font-size: 18px;
+            margin-bottom: 15px;
+        }
+
+        .aboutlocleft p {
+            font-size: 14px;
+        }
+
+        .aboutlocright {
+            margin-top: 15px;
+            margin-left: auto;
+            margin-right: auto;
+            padding-right: 10px;
+            padding-left: 10px;
+            display: block;
+            width: 100%;
+            height: 100%;
+        }
+
+        .aboutlocright h5 {
+            font-size: 18px;
+            margin-bottom: 15px;
+        }
+
+        .aboutlocright p {
+            font-size: 14px;
+        }
+
+        #map {
+            width: 100%;
+            height: 200px;
+        }
+        
+/* ######################## contact ########################### */
+
+        #contact {
+            width: 100%;
+            height: 100%;
+            padding-bottom: 70px;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+
+        .contacttitle {
+            background-size: 200px auto;
+            height: 100px;
+            margin-bottom: 10px;
+        }
+
+        #contact p {
+            font-size: 16px;
+            display: block;
+            text-align: center;
+            margin-bottom: 15px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .contactform {
+            width: 100%;
+            height: 100%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .contactform p {
+            font-size: 14px;
+            color: #ffffff;
+            font-weight: 100;
+        }
+
+        .contactform form {
+            padding-top: 20px;
+        }
+
+        .agreetext {
+            margin-top: -3px;
+            font-size: 10px;
+            display: block;
+        }
+
+        .contactform textarea {
+            width: 100%;
+            margin-top: 25px;
+            margin-bottom: 20px;
+            margin-left: auto;
+            margin-right: auto;
+            width: 300px;
+        }
+
+        .formsize {
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+            width: 100%;
+        }
+
+        .formsize-textarea {
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+            width: 100%;
+            margin-left: 10px;
+            margin-right: 10px;
+        }
+
+        .contactform input[type="text"] {
+            width: 200px;
+        }
+
+    }
+
+    /* Tablets, iPads (landscape) ----------- */
+    @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+        .mainmenu:hover {
+            background-color:  transparent;
+        }
+
+        .logo {
+            left: 80px;
+            top: 50px;
+        }
+
+        .menulist {
+            top: 50px;
+            right: 90px;
+        }
+
+        .mainmenu li:last-child {
+            border-bottom: none;
+        }
+
+        .mainmenu:hover a {
+            font-size: 19px;
+        }
+
+        .date {
+            clear: both;
+            padding-top: 5px;
+            width: 100%;
+            height: 50px;
+            font-size: 25px;
+        }
+
+        .conftitle {
+            margin-top: 10px;
+            margin-bottom: 20px;
+        }
+
+        .conftitle h1 {
+            padding-left: 10px;
+            padding-right: 10px;
+            height: 100px;
+            font-size: 30px;
+        }
+
+        .confundertitle {
+            margin-top: 30px;
+            height: 70px;
+            font-size: 20px;
+            margin-bottom: 30px;
+        }
+
+        #map {
+            height: 240px;
+        }
+    }
+
+    /* Tablets, iPads (portrait) ----------- */
+    @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+        .mainmenu:hover {
+            background-color:  transparent;
+        }
+
+        .logo {
+            left: 80px;
+            top: 50px;
+        }
+
+        .menulist {
+            top: 50px;
+            right: 90px;
+        }
+
+        .mainmenu li:last-child {
+            border-bottom: none;
+        }
+
+        .mainmenu:hover a {
+            font-size: 19px;
+        }
+
+        .date {
+            margin-top: 40px;
+            clear: both;
+            padding-top: 5px;
+            height: 50px;
+            font-size: 25px;
+        }
+
+        .conftitle {
+            margin-top: 20px;
+            height: 100%;
+            margin-bottom: 30px;
+        }
+
+        .conftitle h1 {
+            padding-left: 10px;
+            padding-right: 10px;
+            height: 100px;
+            font-size: 30px;
+        }
+
+        .confundertitle {
+            margin-top: 30px;
+            width: 100%;
+            height: 70px;
+            font-size: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .scroll {
+            width: 9px;
+            background-size: 8px 90px;
+            height: 140px;
+        }
+
+        #map {
+            width: 100%;
+            height: 240px;
+        }
+    }
+
+    /* Desktops and laptops ----------- */
+    @media only screen and (min-width : 1224px) {
+    
+    }
+
+    /* Large screens ----------- */
+    @media only screen and (min-width : 1690px) {
+
+/* ################# title and conferense ##################### */
+
+        .mainmenu {
+            width: 100%;
+            height: 240px;
+        }
+
+        .logo {
+            left: 120px;
+            top: 70px;
+            width: 150px;
+            height: 100px;
+        }
+
+        .menulist {
+            font-size: 20px;
+            font-weight: 100;
+            letter-spacing: 1.5px;
+            top: 50px;
+            right: 150px;
+        }
+
+        .mainmenu:hover a {
+            font-size: 23px;
+        }
+
+
+        .date {
+            padding-top: 30px;
+            width: 100%;
+            height: 50px;
+            font-size: 22px;
+        }
+
+        .conftitle {
+            margin-top: 50px;
+            width: 100%;
+            height: 200px;
+        }
+
+        .conftitle h1 {
+            width: 100%;
+            height: 200px;
+            font-size: 42px;
+        }
+
+        .confundertitle {
+            font-size: 20px;
+        }
+
+        .scroll {
+            width: 10px;
+            background-size: 10px 100px;
+            height: 170px;
+        }
+
+        .conferencetitle {
+            background-size: 390px 50px;
+            margin-top: 50px;
+            width: 100%;
+            height: 220px;
+        }
+        
+        .aboutconf {
+            margin-right: auto;
+            margin-left: auto;
+            width: 620px;
+            height: 100%;
+        }
+
+        .aboutconfleft {
+            height: 100%;
+        }
+
+        .aboutconfleft h5 {
+            font-size: 25px;
+        }
+
+        .aboutconfleft p {
+            font-size: 17px;
+        }
+
+        .aboutconfright {
+            height: 100%;
+        }
+
+        .aboutconfright h5 {
+            font-size: 25px;
+        }
+
+        .aboutconfright p {
+            font-size: 17px;
+        }
+
+/* ######################## agenda ############################ */
+
+        .agendatitle {
+            background-size: 260px 50px;
+            width: 100%;
+            height: 200px;
+        }
+
+
+        .ontime {
+            padding-top: 17px;
+        }
+
+        .ontime2 {
+            padding-top: 20px;
+        }
+
+        .ontime3 {
+            padding-top: 43px;
+        }
+
+        .ontime4 {
+            padding-top: 50px;
+        }
+
+        .ontime5 {
+            padding-top: 50px;
+        }
+
+        .ontime h5 {
+            font-size: 22px;
+            padding-bottom: 10px;
+        }
+
+        .ontime p {
+            font-size: 15px;
+            padding-top: 12px;
+        }
+
+/* ######################## speakers ########################## */
+
+        .speakerstitle {
+            background-size: 280px 50px;
+            height: 200px;
+        }
+
+        .locationtitle {
+            background-size: 290px 50px;
+            height: 200px;
+        }
+
+
+        .aboutlocleft p {
+            font-size: 17px;
+        }
+
+        .aboutlocright {
+            margin-left: 10px;
+            margin-right: auto;
+            display: inline-block;
+            width: 300px;
+            height: 100%;
+        }
+
+        .aboutlocright p {
+            font-size: 17px;
+        }
+
+        #map {
+            height: 350px;
+        }
+
+/* ######################## contact ########################### */
+
+        .contacttitle {
+            background-size: 290px 50px;
+            height: 200px;
+        }
+
+        #contact p {
+            font-size: 20px;
+        }
+
+        .contactform p {
+            font-size: 16px;
+        }
+
+        .contactform form {
+            padding-top: 30px;
+        }
+
+        .contactform .contactlable {
+            font-size: 17px;
+        }
+
+        .agreetext {
+            font-size: 11px;
+        }
+
+    }
